@@ -9,7 +9,7 @@ description = "Create files and archives of random data with SHA-384 checksums, 
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "md4956" }]
+authors = [{ name = "mdortaj" }]
 keywords = ["testing", "random", "file-generator", "archive", "checksum"]
 
 [project.optional-dependencies]

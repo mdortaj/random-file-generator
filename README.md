@@ -24,7 +24,7 @@ By default every file is filled with cryptographically random bytes (`os.urandom
 ## Installation
 
 ```bash
-git clone https://github.com/md4956/random-file-generator.git
+git clone https://github.com/mdortaj/random-file-generator.git
 cd random-file-generator
 pip install .          # installs the `random-file-generator` command
 ```
